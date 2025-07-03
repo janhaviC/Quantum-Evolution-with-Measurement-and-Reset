@@ -6,7 +6,7 @@ We analyzed and found that O(1) showed > 10X better performance. We have based m
 
 Our solution is based on Grover and when we entangle the auxilary with `control bit` and apply X based on yi value on auxilary, we are able to amplify probability of the desired state.
 
-We have divide the files in four sections. The writeup can be found [here](%5BFinal%5DQuantum%20Evolution%20wit%20Measuremen%20and%20Reset_%20Wells%20Fargo.pdf)
+We have divide the files in four sections. The writeup can be found [here]([Final]Quantum%20Evolution%20wit%20Measuremen%20and%20Reset_%20Wells%20Fargo.pdf)
 
 ## Section1: Basic Implementation
 
