@@ -1,4 +1,4 @@
-# Solutions
+# Method 1 O(1) qubit complexity
 
 We have added notebooks here for the solution we proposed. We have tested the solution against the a set of U. We have provided notebooks with local simulation as well as running on IBM and AWS. We also have noisy simulation notebook. In each notebook, we have also added tools for visualization and comparing the results.
 
