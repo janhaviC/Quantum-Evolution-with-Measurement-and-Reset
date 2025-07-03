@@ -10,16 +10,16 @@ We have divide the files in four sections.
 
 ## Section1: Basic Implementation
 
-Here we have added notebook where we have provided solution to a set of U. There we have also provided IBM and AWS execution files.
+Here we have added notebook where we have provided solution to a set of U. There we have also provided IBM and AWS execution files. [Click here for section1](section1)
 
 ## Section2: Multi Qubit Support
 
-Here we have added notebook, that shows how our implementation be extended to multi qubit.
+Here we have added notebook, that shows how our implementation be extended to multi qubit. [Click here for section2](section2)
 
 ## Section3: Experimental analysis
 
-Here we tried to create a more generic solution. We tried to do classical analysis and based on that changing operation on auxilary and selecting control bit.
+Here we tried to create a more generic solution. We tried to do classical analysis and based on that changing operation on auxilary and selecting control bit. [Click here for section3](section3)
 
 ### Section5: O(n) Method approach
 
-This method is expensive that is why we did not perform much analysis on this. But we have added this notebook too.
+This method is expensive that is why we did not perform much analysis on this. But we have added this notebook too. [Click here for section4](section4)
