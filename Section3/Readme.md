@@ -1,1 +1,1 @@
-
+Here we try to perform classical analysis for different types of U. As we saw my in Section1, by performing operations on auxilary and applying Grover we were able to amplify. This we did on set of U, which have same control bit and signal bit. This can easily be extended to different class of U, by performing classical analysis. Here this is what we tried.
