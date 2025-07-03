@@ -7,7 +7,7 @@ We can also have the control bit (C) and signal bit different (S) and for this w
 
 
 # Notebooks
-[Method 1 Solution](Quantum_Evolution_with_Measurement_and_Reset_Method.ipynb)
+[Method 1 Solution](Quantum_Evolution_with_Measurement_and_Reset_Method-1.ipynb)
 
 [IBM Method 1](Quantum_Evolution_with_Measurement_and_Reset_Multi_Qubit_Method_1_.ipynb)
 
