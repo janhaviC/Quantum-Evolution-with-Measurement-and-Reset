@@ -2,7 +2,7 @@
 
 ##### Team Name:  QJC
 
-[Github Link](https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
 
 The iterative evolution of quantum systems under the influence of measurement and subsequent reset operations presents a fascinating challenge in quantum control. Traditionally, such processes necessitate sequential measurement and re-preparation, hindering their direct implementation on coherent quantum hardware. We propose two solutions that effectively synthesize the conditional evolution of a two-qubit system undergoing repeated measurement-reset cycles, without performing actual intermediate measurements. One solution has O(1) qubits complexity and the other has O(n) qubit complexity.
 
