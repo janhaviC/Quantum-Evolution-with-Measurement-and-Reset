@@ -1,5 +1,7 @@
 # Quantum-Evolution-with-Measurement-and-Reset
 
+[Github Link](https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
+
 The iterative evolution of quantum systems under the influence of measurement and subsequent reset operations presents a fascinating challenge in quantum control. Traditionally, such processes necessitate sequential measurement and re-preparation, hindering their direct implementation on coherent quantum hardware. We propose two solutions that effectively synthesize the conditional evolution of a two-qubit system undergoing repeated measurement-reset cycles, without performing actual intermediate measurements. One solution has O(1) qubits complexity and the other has O(n) qubit complexity.
 
 We analyzed and found that O(1) showed > 10X better performance. We have based most of our analysis on O(1) solution. This is not depended upon n. The way our solution works is by using on auxillary bit and applying operations on that based on the mathematical analysis done on the type of U. We clearly demonstrated in Section1, Section2 that we are able to use the solution for a set of U.
