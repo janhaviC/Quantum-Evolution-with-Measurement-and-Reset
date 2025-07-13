@@ -5,7 +5,7 @@ We have added notebooks here for the solution we proposed. We have tested the so
 Here the U we have selected they have q0 as the control qubit and we are using this as signal bit.
 We can also have the control bit (C) and signal bit different (S) and for this we have added notebook in Section4. Our Auxilary qubit is the one that is helping us amplify the required state. When the C and S are different we would need to do mathematical analysis and create class of U. We tried to do that mathematical analysis and classical prepossing in Section4. More analysis is still required.
 
-NOTE: For running on IBM, we would have to add the token key and the device ARN on which we want to run.
+NOTE: For running on IBM, we would have to add the token key and the device CRN on which we want to run.
 
 
 # Notebooks
