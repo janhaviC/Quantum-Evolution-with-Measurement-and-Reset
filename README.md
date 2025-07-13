@@ -1,6 +1,8 @@
 # Quantum-Evolution-with-Measurement-and-Reset
 
 ##### Team Name:  QJC
+##### Project title: Quantum-Evolution-with-Measurement-and-Reset
+##### Challenge track: Wells Fargo
 
 [<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
 
