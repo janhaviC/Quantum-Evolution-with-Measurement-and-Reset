@@ -1,4 +1,6 @@
-# Quantum-Evolution-with-Measurement-and-Reset ( Team: QJC )
+# Quantum-Evolution-with-Measurement-and-Reset
+
+##### Team Name:  QJC
 
 [Github Link](https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
 
