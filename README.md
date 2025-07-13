@@ -1,4 +1,4 @@
-# Quantum-Evolution-with-Measurement-and-Reset
+# Quantum-Evolution-with-Measurement-and-Reset ( Team: QJC )
 
 [Github Link](https://github.com/janhaviC/Quantum-Evolution-with-Measurement-and-Reset)
 
